@@ -1,6 +1,6 @@
 ## Visual-Odometry-for-Localization
 
-Visual Odometry for Localization in Autonomous Driving
+Visual Odometry for Localization in Autonomous Driving. This project is part of the Self-Driving Cars Specialization by the University of Toronto
 
 
 Visual odometry is a technique used to estimate the trajectory of a camera by analyzing images captured by the camera over time. In this project, we implement visual odometry using images obtained from a monocular camera.
