@@ -42,7 +42,7 @@ This can be achieved by decomposing the essential matrix obtained from the match
 
 The camera trajectory is estimated by considering that the origin of the trajectory coordinate system is located at the camera position when the first image (index 0) was taken.
 
-**Camera Pose Estimation Pipeline**
+[Camera Pose Estimation Pipeline(Page 5)](https://publications.lib.chalmers.se/records/fulltext/246134/246134.pdf)
 
 $$
 I_{0:n}=\left\(I_0,\ldots,I_n\right\)
